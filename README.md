@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Briaulin Méndez Sena
 
-- 🔭 I’m currently fill stack developer
+- 🔭 I’m full stack developer
 
 <!--
 **bjmendezsena/bjmendezsena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
